@@ -1,0 +1,12 @@
+str1="hello"
+str2="world"
+result=str1*4
+print(result)
+print(str1[0:2])
+print(str1[:-1])
+length=len(str1)
+print(length)
+print(str1==str2)
+print(str1>str2)
+print(str1.lower())
+print(str2.upper())
